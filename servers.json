@@ -6,9 +6,9 @@
 		"name":"#Server 1"
 	},
 	{
-		"ip": "",
-		"port": ,
+		"ip": "141.95.234.21",
+		"port": 1277,
 		"id": 2,
-		"name":"#offline"
+		"name":"#test"
 	}
 ]
